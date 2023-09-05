@@ -16,7 +16,7 @@ def divide(x, y):
 
 
 # Main calculator loop
-add(1,2)
-subtract(4,1)
-multiply(5,6)
+add(1,1)
+subtract(1,1)
+multiply(1,10)
 divide(15,5)
