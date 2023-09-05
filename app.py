@@ -1,6 +1,8 @@
 def add(x,y):
     return x+y
-
+# Function to perform subtraction
+def subtract(x, y):
+    return x - y
 
 # Main calculator loop
 while True:
