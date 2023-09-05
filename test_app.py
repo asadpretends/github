@@ -1,4 +1,7 @@
 from app import add
+from app import subtract
+from app import multiply
+from app import divide
 
 def test_add():
     assert 2 == add(1,1)
